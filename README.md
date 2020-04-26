@@ -1,3 +1,3 @@
 # newsApi
 
-project for braAi Competition
+project for bisaAi Competition
